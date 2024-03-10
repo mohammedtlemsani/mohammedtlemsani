@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Tlemsani</h1>
 <h3 align="center">A data/software engineer</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
